@@ -17,5 +17,7 @@
     <true/>
     <key>SessionCreate</key>
     <true />
+    <key>UserName</key>
+    <string>phatblat</string>
   </dict>
 </plist>
