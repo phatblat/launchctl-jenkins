@@ -4,6 +4,10 @@
   <dict>
     <key>Label</key>
     <string>jenkins</string>
+
+    <key>UserName</key>
+    <string>phatblat</string>
+
     <key>ProgramArguments</key>
     <array>
       <string>/usr/bin/java</string>
@@ -13,11 +17,15 @@
       <string>--httpListenAddress=0.0.0.0</string>
       <string>--httpPort=8080</string>
     </array>
+
     <key>RunAtLoad</key>
     <true/>
+
     <key>KeepAlive</key>
     <true/>
+
     <key>SessionCreate</key>
     <true />
+
   </dict>
 </plist>
